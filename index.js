@@ -5,7 +5,7 @@ const app = express();
 // Endpoints
 
 app.get('/', (req, res) => {
-    res.end('Hello Word')
+    res.end('Hello World')
 });
 
 // Launch server
