@@ -5,7 +5,7 @@ const app = express();
 // Endpoints
 
 app.get('/', (req, res) => {
-    res.end('Hello World')
+    res.end('Hello World 1.0.0')
 });
 
 // Launch server
